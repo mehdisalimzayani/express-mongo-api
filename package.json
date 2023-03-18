@@ -1,0 +1,29 @@
+{
+  "name": "express-mongo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehdisalimzayani/express-mongo-api.git"
+  },
+  "author": "Mehdi Salim Zayani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehdisalimzayani/express-mongo-api/issues"
+  },
+  "homepage": "https://github.com/mehdisalimzayani/express-mongo-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
