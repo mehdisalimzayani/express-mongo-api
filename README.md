@@ -4,8 +4,8 @@ This project is an API built using Node.js/Express and MongoDB for data storage.
  Users can retrieve all data items, retrieve a single data item by ID, add a new data item, update an existing data item, and delete an existing data item. The project includes client-side code built with React.js that interacts with the API to display and manipulate the data. / The code repository includes separate files for the server-side and client-side code, as well as separate components for each feature of the application.
 
 ## Prerequisites
-[Node.js (version 18.13.0 or higher)](https://nodejs.org) <br>
-[MongoDB (version 7.0.2 or higher)](https://mongodb.com) <br>
+[Node.js ](https://nodejs.org) <br>
+[MongoDB ](https://mongodb.com) <br>
 
 ## Installation
 Clone the code repository to your computer. <br>
